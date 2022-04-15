@@ -4,7 +4,7 @@
 ---
 The  following is a curated list of awesome learning resources for leaners in their final year of high school or freshman year at college/university. It is can also be used by anyone who has the curiosity and passion to learn new things. 
 
-[Contributions](#CONTRIBUTE) are welcome!
+[Contributions](#CONTRIBUTIONS) are welcome!
 
 **KEY**:
 
@@ -15,21 +15,27 @@ The  following is a curated list of awesome learning resources for leaners in th
 ---
 ## Table of contents
 
-- [Online Courses](#ONLINE-COURSES)
-- [Books](#BOOKS)
+- [Online Courses](#online-courses)
+
+- [Books](#books)
 	- [Biographies](#Biographies)
-	- [Business and Entrepreneurship](#Biographies-1)
-	- [Productivity](#Biographies-2)
-- [TEI's Admission Requirements](#UNAM+1)
-	- [UNAM](#UNAM)
-	- [NUST](#NUST)
-	- [IUM](#IUM)
-- [Student Finance](#STUDENTFINANCE)
-	- [SCHOLARSHIPS](#SCHOLARSHIPS)
-	- [LOANS](#LOANS)
-	- [BURSARIES](#BURSARIES)
-- [Internships](#INTERNSHIPS)
-- [Contributions](#CONTRIBUTIONS)
+	- [Business and Entrepreneurship](#business--entrepreneurship)
+	- [Productivity](#Productivity)
+
+- [TEI's Admission Requirements](#high-education-institutions-admission-requirements)
+	- [UNAM](#high-education-institutions-admission-requirements)
+	- [NUST](#high-education-institutions-admission-requirements)
+
+- [Student Finance](#student-finance)
+	- [SCHOLARSHIPS](#scholarships)
+	- [LOANS](#loans)
+	- [BURSARIES](#bursaries)
+
+- [Internships](#internships)
+- [Communities](#communities)
+- [Contributions](#contributions)
+
+
 ## ONLINE-COURSES  
 **PLATFORMS**
 
@@ -73,17 +79,25 @@ The  following is a curated list of awesome learning resources for leaners in th
 
   
 
-## STUDENT FINANCE
+## STUDENT-FINANCE
+
 ### SCHOLARSHIPS
-- Fully Funded Government of Mauritius Scholarship 2022(❂) - [https://bit.ly/37otUu3](https://bit.ly/37otUu3)
+- Petrofund Scholarship Scheme(+) - _```CALL: +264 61 204 5000```_
+
 ### LOANS
 - Namibia Student Financial Assistance Fund (❂) - [https://bit.ly/3jbMOY4  
 ](https://bit.ly/3jbMOY4)
+
 ### BURSARIES
 - Nampower Vocational Bursary (+) -  [https://bit.ly/3LOpPP4](https://bit.ly/3LOpPP4)
-- Petrofund Scholarship Scheme(+) - _```CALL: +264 61 204 5000```_
+
 
 ## INTERNSHIPS
+- Add List of internships that you know here...
+
+## COMMUNITIES
+- [Internet Society Namibia](https://isocnamibia.org/news/become-a-member/)
+- [Namibia Developer Channel - Telegram](https://t.me/joinchat/IkegKVleQFBigdhSZ9RfIA)
 
 ## CONTRIBUTIONS
-- Contributions are welcome! See the [contribution guidelines](https://github.com/Kanhalelor/)
+- Contributions are welcome! See the [contribution guidelines](https://github.com/Kanhalelor/awesome-for-learners/blob/main/Contributions.md)

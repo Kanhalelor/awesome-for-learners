@@ -11,6 +11,8 @@
 
 - Link additions should be added to the bottom of the relevant category.
 
+- Longer links should be shortened
+
 - New categories or improvements to the existing categorization are welcome.
 
 - Check your spelling and grammar.
