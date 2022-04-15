@@ -4,7 +4,7 @@
 ---
 The  following is a curated list of awesome learning resources for leaners in their final year of high school or freshman year at college/university. It is can also be used by anyone who has the curiosity and passion to learn new things. 
 
-[Contributions](#CONTRIBUTE) are welcome!
+[Contributions](#CONTRIBUTIONS) are welcome!
 
 **KEY**:
 
@@ -24,7 +24,7 @@ The  following is a curated list of awesome learning resources for leaners in th
 	- [UNAM](#UNAM)
 	- [NUST](#NUST)
 	- [IUM](#IUM)
-- [Student Finance](#STUDENTFINANCE)
+- [Student Finance](#STUDENT-FINANCE)
 	- [SCHOLARSHIPS](#SCHOLARSHIPS)
 	- [LOANS](#LOANS)
 	- [BURSARIES](#BURSARIES)
@@ -73,7 +73,8 @@ The  following is a curated list of awesome learning resources for leaners in th
 
   
 
-## STUDENT FINANCE
+## STUDENT-FINANCE
+
 ### SCHOLARSHIPS
 - Fully Funded Government of Mauritius Scholarship 2022(❂) - [https://bit.ly/37otUu3](https://bit.ly/37otUu3)
 ### LOANS
@@ -86,4 +87,4 @@ The  following is a curated list of awesome learning resources for leaners in th
 ## INTERNSHIPS
 
 ## CONTRIBUTIONS
-- Contributions are welcome! See the [contribution guidelines](https://github.com/Kanhalelor/)
+- Contributions are welcome! See the [contribution guidelines](https://github.com/Kanhalelor/awesome-for-learners/blob/main/Contributions.md)
