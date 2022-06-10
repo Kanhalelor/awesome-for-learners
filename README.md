@@ -76,6 +76,7 @@ The  following is a curated list of awesome learning resources for leaners in th
 - [UNAM](https://bit.ly/37jdVxw) - ▼ 
 
 - [NUST](https://bit.ly/3jeLDH4) - ▼ 
+- [IUM](https://bit.ly/3QcnQXJ) - 🔗
 
   
 
@@ -90,6 +91,8 @@ The  following is a curated list of awesome learning resources for leaners in th
 
 ### BURSARIES
 - Nampower Vocational Bursary (+) -  [https://bit.ly/3LOpPP4](https://bit.ly/3LOpPP4)
+- Chartered accounting Bursary (❂) - [https://bit.ly/3M31WmA](https://bit.ly/3M31WmA)
+- Bank of Namibia Undergraduate Bursary Scheme (+) - [https://bit.ly/3wV8nDK](https://bit.ly/3wV8nDK)
 
 
 ## INTERNSHIPS
