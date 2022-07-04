@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Awesome Resources for Learners</h1>
+<h1 style="text-align: center;">Awesome Resources for Learners and Students</h1>
 <image src="https://lh4.googleusercontent.com/HgJMj9ke-frqajg5LYzTuj5pAMxW__Klfu11MOo71By8l5JIllz2dDGLcDZI7BTeMFrnFD-2pa3cjrPTkxBiQMR5Y_1WGycLoFKuNHEQsqSH6QvLJMGQ0QZHmYMl64mL6KWxWZtD"></image>  
 
 ---
